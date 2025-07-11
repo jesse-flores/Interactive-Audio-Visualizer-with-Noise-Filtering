@@ -110,6 +110,8 @@ Here’s a basic overview of what the visualization looks like:
 2. **Filtered Audio**: After applying noise filtering, the waveform smoothens and becomes more clear.
 3. **Interactive Control**: You can adjust the noise filtering and wavelet settings dynamically to improve the visualization.
 
+![alt text](image.png)
+
 ## **Contributing**
 
 Feel free to fork this repository and submit pull requests if you have any improvements or bug fixes. Contributions are always welcome!
